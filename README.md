@@ -3,7 +3,7 @@ USC CSCI201: a GUI java program using swing and AWT, object-oriented design.
 
 Please use Eclipse IDE to run the program. Terminal might not be able to display the GUI for this project. 
 
-to Run the project, go to "Assignment2.java" and click "run"
+to Run the project, go to "src/assignment2/Assignment2.java" and click "run"
 
 to guess a ship, enter a corrdinate, for example: A1, B5, H9
 
