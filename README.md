@@ -17,6 +17,6 @@ If you hit a Cruiser, a "C" will be displayed.
 
 If you hit a Destroyer, a "D" will be displayed. 
 
-When winning the game, the user will be prompted to enter their name, and a score baord will pop-out. 
+When winning the game, the user will be prompted to enter their name, and a score board will pop-out. 
 
 Enjoy the game.  :-)
